@@ -40,7 +40,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/hitachi_kochia/2018_10_26_44.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/hitachi_kochia/2018_10_26_39.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -63,7 +63,7 @@ body::before {
 <a href="2018_10_26 (15).JPG" data-lightbox="abc"><img src="2018_10_26 (15).JPG" alt="サンプル画像" width="180"></a>
 <a href="2018_10_26 (16).JPG" data-lightbox="abc"><img src="2018_10_26 (16).JPG" alt="サンプル画像" width="180"></a>
 <a href="2018_10_26 (38).JPG" data-lightbox="abc"><img src="2018_10_26 (38).JPG" alt="サンプル画像" width="180"></a>
-<a href="2018_10_26 (39).JPG" data-lightbox="abc"><img src="2018_10_26 (39).JPG" alt="サンプル画像" width="180"></a>
+<a href="2018_10_26_39.JPG" data-lightbox="abc"><img src="2018_10_26_39.JPG" alt="サンプル画像" width="180"></a>
 <a href="2018_10_26_44.JPG" data-lightbox="abc"><img src="2018_10_26_44.JPG" alt="サンプル画像" width="180"></a>
 <a href="2018_10_26 (45).JPG" data-lightbox="abc"><img src="2018_10_26 (45).JPG" alt="サンプル画像" width="180"></a>
 <a href="2018_10_26 (48).JPG" data-lightbox="abc"><img src="2018_10_26 (48).JPG" alt="サンプル画像" width="180"></a>
