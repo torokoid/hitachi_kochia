@@ -31,7 +31,6 @@ font-size: 1.5em;
 }
 
 
-
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -42,7 +41,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/hitachi_kochia/2018_10_26 (44).JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/hitachi_kochia/2018_10_26(44).JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -54,15 +53,12 @@ body::before {
 
 </head>
 <body>
+  
 <h1><span class="yellow"><marquee behavior="left">!!! ひたち海浜公園コキア＆コスモス、2018/10/26(金) !!!</marquee></span></h1>
 <p align="right">2018年19月26日,昼13:50頃＠ひたち海浜公園</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~torokoid</marquee></p>
-<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>	
-<a href="hitachi001.JPG" data-lightbox="abc" data-title="ネモフィラ写真拡大">
-   <img src="hitachii001.JPG" alt="ネモフィラ写真">
-</a>
-  
+<h3><span class="white">↓ 画像はクリックで拡大します。</span></h3>  
   
 <a href="2018_10_26 (14).JPG" data-lightbox="abc"><img src="2018_10_26 (14).JPG" alt="サンプル画像" width="180" /></a>
 <a href="2018_10_26 (15).JPG" data-lightbox="abc"><img src="2018_10_26 (15).JPG" alt="サンプル画像" width="180" /></a>
