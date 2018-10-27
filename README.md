@@ -89,8 +89,9 @@ body::before {
 <a href="2018_10_26 (85).JPG" data-lightbox="abc"><img src="2018_10_26 (85).JPG" alt="サンプル画像" width="180"></a>
 <a href="2018_10_26 (88).JPG" data-lightbox="abc"><img src="2018_10_26 (88).JPG" alt="サンプル画像" width="180"></a>
 <a href="2018_10_26 (89).JPG" data-lightbox="abc"><img src="2018_10_26 (89).JPG" alt="サンプル画像" width="180"></a>
+<h4><span class="white">↓コキアを楽しんだ後は、お決まりの那珂湊でお魚のお買い物。サービスの氷もざっくり～(^^♪</span></h4>
 <a href="2018_10_26 (91).JPG" data-lightbox="abc"><img src="2018_10_26 (91).JPG" alt="サンプル画像" width="180"></a>
-<a href="2018_10_26 (92).JPG" data-lightbox="abc"><img src="2018_10_26 (92).JPG" alt="サンプル画像" width="180"></a>
+<a href="2018_10_26 (92).JPG" data-lightbox="abc"><img src="2018_10_26 (92).JPG" alt="サンプル画像" width="90"></a>
 
 
 <br><br>  
