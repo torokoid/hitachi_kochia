@@ -30,7 +30,21 @@ font-size: 1.5em;
 	text-align: center;
 }
 
+#wrap {background:none} /*PC用の背景はオフ*/
+body::before {
+  content:"";
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+  z-index:-1;
+  width:100%;
+  height:100vh;
+  background:url(https://torokoid.github.io/mashiko_himawari/mashiko19.JPG) center/cover no-repeat; /*fixedをトル！*/
+  -webkit-background-size:cover;/*Android4*/
+  }
 
+<!--
 #wrap {background:none} /*PC用の背景はオフ*/
 body::before {
   content:"";
@@ -44,7 +58,7 @@ body::before {
   background:url(https://torokoid.github.io/hitachi_kochia/2018_10_26 (44).JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
-
+-->
 </style> 
 
 
