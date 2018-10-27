@@ -42,7 +42,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/hitachi_nemophila/hitachi036.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/hitachi_kochia/2018_10_26 (44).JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 
@@ -63,6 +63,29 @@ body::before {
    <img src="hitachii001.JPG" alt="ネモフィラ写真">
 </a>
   
+  
+
+<a href="2018_10_26 (4).JPG" data-lightbox="abc"><img src="2018_10_26 (4).JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2018_10_26 (36).JPG" data-lightbox="abc"><img src="2018_10_26 (36).JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2018_10_26 (26).JPG" data-lightbox="abc"><img src="2018_10_26 (26).JPG" alt="サンプル画像" width="1800" /></a>
+<a href="2018_10_26 (39).JPG" data-lightbox="abc"><img src="2018_10_26 (39).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (40).JPG" data-lightbox="abc"><img src="2018_10_26 (40).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (14).JPG" data-lightbox="abc"><img src="2018_10_26 (14).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (46).JPG" data-lightbox="abc"><img src="2018_10_26 (46).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (67).JPG" data-lightbox="abc"><img src="2018_10_26 (67).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (74).JPG" data-lightbox="abc"><img src="2018_10_26 (74).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (85).JPG" data-lightbox="abc"><img src="2018_10_26 (85).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (88).JPG" data-lightbox="abc"><img src="2018_10_26 (88).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (89).JPG" data-lightbox="abc"><img src="2018_10_26 (89).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (90).JPG" data-lightbox="abc"><img src="2018_10_26 (90).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (12).JPG" data-lightbox="abc"><img src="2018_10_26 (12).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (15).JPG" data-lightbox="abc"><img src="2018_10_26 (15).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (17).JPG" data-lightbox="abc"><img src="2018_10_26 (17).JPG" alt="サンプル画像" width="180" /></a>
+<a href="2018_10_26 (86).JPG" data-lightbox="abc"><img src="2018_10_26 (86).JPG" alt="サンプル画像" width="180" /></a>
+
+</div>
+
+<br><br>  
   
   
   
